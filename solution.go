@@ -1,5 +1,5 @@
 package solution
 
 func GetMessage() string {
-	return ""
+	return "I'm beaver!"
 }
